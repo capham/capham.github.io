@@ -11,8 +11,6 @@ tags:
 ---
 
 
-# 📝 Create Free Blog with Jekyll and GitHub Pages
-
 If you're looking to create a **fast**, **free**, and **customizable** blog without relying on third-party platforms, using **Jekyll** and **GitHub Pages** is a great option. This setup allows you to host a static site directly from a GitHub repository — no servers, no databases, and no monthly fees.
 
 ## 🚧 Basic Steps to Create Your Blog
