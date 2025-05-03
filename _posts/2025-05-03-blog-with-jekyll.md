@@ -1,7 +1,7 @@
 ---
 title: "Create free blog with Jekyll and Github"
 categories:
-  - Edge Case
+  - Blogging
 tags:
   - jekyll
   - github page
