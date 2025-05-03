@@ -1,14 +1,14 @@
 ---
 layout: single
 permalink: /about/
-title: "About"
+title: "About Me"
 excerpt: "Personal blog for saving and sharing technical knowledge."
 last_modified_at: 2025-05-03 00:00:00
 author_profile: true
 toc: true
 ---
 
-# 👋 Hi, I'm Phạm Văn Ca
+## 👋 Hi, I'm Phạm Văn Ca
 
 I'm a **Software Engineer** based in **Ho Chi Minh City, Vietnam** 🇻🇳.
 
