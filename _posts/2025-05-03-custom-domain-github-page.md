@@ -1,4 +1,11 @@
-# Pointing Your Domain to GitHub Pages
+---
+title: "Pointing Your Domain to GitHub Pages"
+categories:
+  - Blogging
+tags:
+  - jekyll
+  - github page
+---
 
 This guide will walk you through the process of pointing a custom domain from your domain registrar to GitHub Pages. We'll cover each step in detail, from DNS configuration to SSL setup.
 
