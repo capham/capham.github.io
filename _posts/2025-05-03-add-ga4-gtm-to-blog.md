@@ -137,7 +137,7 @@ Replace `GTM-XXXXXXX` with your actual Google Tag Manager Container ID.
 {% endif %}
 ```
 
-Note: The conditional `{% if jekyll.environment == 'production' %}` ensures tracking only happens in production, not during local development.
+Note: The conditional `if jekyll.environment == 'production'` ensures tracking only happens in production, not during local development.
 
 ### Method 2: Using _config.yml Settings
 
