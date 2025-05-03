@@ -1,7 +1,7 @@
 ---
 title: "Pointing Your Domain to GitHub Pages"
 toc: true
-toc_label: "Unique Title"
+toc_label: "Table of Content"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 categories:
   - Blogging
